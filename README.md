@@ -1,1 +1,1 @@
-# Javascript1stProject
+# This is my first project about javascript. 
